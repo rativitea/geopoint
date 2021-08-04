@@ -1,7 +1,8 @@
 import 'dart:io';
 
-import 'package:latlong2/latlong.dart';
+// import 'package:latlong2/latlong.dart';
 import 'package:slugify/slugify.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 /// inValidLocation
 double _inValidLocation = -181.0;
